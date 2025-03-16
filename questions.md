@@ -20,16 +20,3 @@ How do wages compare to inflation (are salaries keeping up with cost of living)?
 Are there regional differences in unemployment? Which areas are most affected?
 How has the minimum wage evolved, and is it sufficient compared to inflation?
 
-Foreign Investments & Business Climate
-
-What are the trends in Foreign Direct Investment (FDI) in Georgia?
-Which industries attract the most investment (real estate, banking, tourism, energy)?
-What are the main barriers to foreign investment (regulations, corruption, political stability)?
-Can we predict future FDI trends based on historical data?
-
-Trade and Currency Exchange Rates
-
-How has the Georgian Lari (GEL) performed against USD/EUR over the past decade?
-What is the relationship between exchange rates and inflation?
-How do exports and imports affect the trade balance?
-Which countries are Georgia’s top trading partners, and how have those relationships changed?
