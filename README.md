@@ -1,6 +1,5 @@
 # Analysis of different Economic and Financial fields of Georgia
-I analyzed different statistics which were available on [geostat](https://www.geostat.ge/en). I **cleaned** the data, **normalized** it in some cases and engineered interested features. I tried to answer some questions which may be interesting for analysis. In particular, these questions were associated with GDP, exchange rates, inflation, CPI, unemployment and wages.
-Using knowledge I gained from the book "Practical Statistics for Data Scientists" I plotted the results and got some insights on the available data.
+I analyzed various statistics available on Geostat. I cleaned the data, normalized it in some cases, and engineered relevant features. I explored key questions that could provide meaningful insights, particularly those related to GDP, exchange rates, inflation, CPI, unemployment, and wages. Using the knowledge I gained from Practical Statistics for Data Scientists, I visualized the results and extracted insights from the available data.
 
 ## GDP 
 We get few insights from this data:
